@@ -7,7 +7,6 @@
 
 <script>
 
-
 import 'maptalks/dist/maptalks.css'
 import * as maptalks from 'maptalks'
 export default {
